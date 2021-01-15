@@ -12,6 +12,6 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Listening on ${port} for first container operation`);
-    console.log('Welcome to SCA Cloud School Application');
+    console.log(`Listening on ${port} for second container operation`);
+    console.log('Welcome to SCA Cloud School Application, this is my first assessment');
 })
