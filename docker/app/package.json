@@ -1,0 +1,25 @@
+{
+  "name": "uloma-sca-application",
+  "version": "1.0.0",
+  "description": "Uloma Cloud School Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulomau/SCA-Cloud-School-Application.git"
+  },
+  "author": "Uloma O Chibueze-ocheoha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ulomau/SCA-Cloud-School-Application/issues"
+  },
+  "homepage": "https://github.com/ulomau/SCA-Cloud-School-Application#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
